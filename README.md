@@ -17,3 +17,6 @@ pip install requests pygame psutil
 
 (For Windows) :
 choco install curl git
+
+
+(Note:You can basically run .py on Windows But you must install psutil . Try Searching Chatgpt!")
